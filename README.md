@@ -1,6 +1,6 @@
 # 🚀 Agentes Inteligentes com IA
 
-Projeto focado na criação de agentes inteligentes utilizando IA generativa, com automações reais e integração com ferramentas como Outlook.
+Projeto focado na criação de agentes inteligentes utilizando IA generativa, automações reais e integração com ferramentas como Outlook.
 
 ---
 
@@ -8,46 +8,41 @@ Projeto focado na criação de agentes inteligentes utilizando IA generativa, co
 
 Demonstrar na prática como construir agentes capazes de:
 
-- Automatizar tarefas do dia a dia  
-- Gerar prompts inteligentes  
-- Enviar emails automaticamente  
-- Integrar com serviços externos  
+- Automatizar tarefas do dia a dia
+- Gerar prompts inteligentes
+- Enviar e-mails automaticamente
+- Integrar com serviços externos
 
 ---
 
 ## 🎥 Demonstração do Projeto
 
-Clique na imagem abaixo para assistir:
+Clique abaixo para assistir:
 
-[![Demonstração](https://img.youtube.com/vi/SmElLRmrQQM/0.jpg)](https://www.youtube.com/watch?v=SmElLRmrQQM)
-
----
-
-## ⚡ Funcionalidades
-
-✔ Criação de agentes com IA  
-✔ Geração de prompts avançados  
-✔ Integração com Outlook  
-✔ Automação de envio de emails  
-✔ Fluxos inteligentes de decisão  
+[![Assista ao vídeo](https://img.youtube.com/vi/SmElLRmrQQM/0.jpg)](https://www.youtube.com/watch?v=SmElLRmrQQM)
 
 ---
 
-## 🧠 Tecnologias utilizadas
+## ⚙️ Estrutura do Projeto
+agentes/
+├── agente-email.md
+└── prompts/
+└── prompt-principal.md
 
-- IA Generativa  
-- Engenharia de Prompt  
-- Automação de processos  
-- Integração com APIs  
+
+
 
 ---
 
-## 📁 Estrutura do projeto
+## 🤖 Tecnologias utilizadas
 
-```bash
-agentes-ia/
-│
-├── agentes/
-├── exemplos/
-├── prompts/
-└── README.md
+- IA Generativa
+- Automação de processos
+- Integração com Outlook
+- Engenharia de Prompt
+
+---
+
+## 📌 Autor
+
+Desenvolvido por Matheus 🚀
